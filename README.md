@@ -26,6 +26,15 @@ I'm a **B.Tech Computer Science & Engineering student at IET Lucknow** with a st
 - 💬 Ask me about: **React, Node.js, Java, DSA, Web Development**
 
 ---
+🏆 Achievements
+
+⭐ CodeChef: 2★ <br>⭐ LeetCode: 1700+ Rating
+
+---
+Competitive Programming
+<div align="center"> <a href="https://www.codechef.com/users/open_willow_27"><img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-B22222?style=flat-square" /></a> <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_ID"><img src="https://img.shields.io/badge/HackerRank-5%E2%98%85-2EC866?style=flat-square" /></a> <a href="https://leetcode.com/u/mithi1/"><img src="https://img.shields.io/badge/LeetCode-1700%2B%20Rating-F89F1B?style=flat-square" /></a> </div>
+
+---
 
 ## 🛠️ Tech Stack
 
