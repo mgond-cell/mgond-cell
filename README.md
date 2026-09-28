@@ -64,11 +64,7 @@ I'm a **B.Tech Computer Science & Engineering student at IET Lucknow** with a st
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mgond-cell&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</div>
 
 ---
 
