@@ -60,11 +60,7 @@ I'm a **B.Tech Computer Science & Engineering student at IET Lucknow** with a st
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mgond-cell&theme=tokyonight&no-bg=true&margin-w=4&margin-h=4" width="100%" />
-</div>
 
 ---
 
@@ -80,8 +76,8 @@ I'm a **B.Tech Computer Science & Engineering student at IET Lucknow** with a st
 
 <div align="center">
   <a href="https://github.com/mgond-cell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mithilesh-gond-5b543022a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mithileshgond8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
